@@ -1,0 +1,1 @@
+java -cp target/classes/ mitame.euler.Euler`printf %03d $1`
