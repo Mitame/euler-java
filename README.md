@@ -3,7 +3,7 @@
 Me learning Java... I probably won't survive
 
 ### Building
-Run `mvn build`.
+Run `mvn compile`.
 
 ### Running
 Use `./run.sh $n` where `$n` is the problem number.
